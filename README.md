@@ -2,6 +2,7 @@
 
 **WiimoteControlApp** は、Nintendo Wiiリモコンおよびヌンチャクを使用して、Windows上でマウスカーソル操作やキーボード入力を可能にするツールです。
 
+https://github.com/JellyFishGC/WiimoteControlApp/releases/latest
 ---
 
 ## 📦 主な機能
