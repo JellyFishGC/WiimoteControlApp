@@ -1,14 +1,36 @@
+# ビルドフォルダ
 bin/
 obj/
+
+# ユーザー固有ファイル
 *.user
 *.suo
-.vs/
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# その他
 *.log
 *.pdb
 *.tmp
+*.cache
+*.dbmdl
 *.bak
+
+# テスト結果
 TestResults/
+
+# JetBrains Rider
+.idea/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# NuGet
 *.nupkg
 *.snupkg
 packages/
-.vscode/
